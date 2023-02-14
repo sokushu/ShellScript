@@ -3,7 +3,7 @@
 
 # 快速使用
 
-'''
+```bash
 
 \# 定位到下载文件夹
 cd /home/download
@@ -12,5 +12,6 @@ cd ShellScript/
 sudo chmod +x ./*
 sh Start.sh
 
-'''
+```
+
 

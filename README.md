@@ -4,6 +4,11 @@
 # 快速使用
 
 ```bash
+# 创建一个下载文件夹
+mkdir /home/download
+```
+
+```bash
 # 定位到下载文件夹
 cd /home/download
 ```

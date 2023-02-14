@@ -32,10 +32,3 @@ sudo chmod +x ./*
 # 执行代码
 sh Start.sh
 ```
-
-
-
-
-
-
-

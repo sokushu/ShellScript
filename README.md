@@ -14,6 +14,9 @@ cd /home/download
 ```
 
 ```bash
+# 更新安装Git
+sudo apt-get update
+sudo apt-get install git
 # 克隆本代码库
 sudo git clone https://github.com/sokushu/ShellScript.git
 ```
